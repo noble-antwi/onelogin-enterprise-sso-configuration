@@ -1,0 +1,22 @@
+# Sensitive configuration data
+*.key
+*.pem
+*.p12
+.env
+secrets/
+
+# Test data with real information
+real-users/
+production-configs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
