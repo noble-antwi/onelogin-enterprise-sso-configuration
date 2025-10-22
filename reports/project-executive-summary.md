@@ -1,7 +1,5 @@
 # OneLogin SSO Project - Executive Summary
 
-**File Path:** `reports/project-executive-summary.md`
-
 ## Executive Overview
 
 On October 22, 2025, we successfully implemented a comprehensive Single Sign-On solution using OneLogin as the Identity Provider, demonstrating enterprise-level identity management capabilities through practical, hands-on configuration and testing.

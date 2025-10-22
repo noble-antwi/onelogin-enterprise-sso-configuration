@@ -1,7 +1,5 @@
 # Slack SAML Configuration
 
-**File Path:** `documentation/app-configurations/slack-saml-config.md`
-
 ## Project Implementation Summary
 
 This document details the actual configuration of Slack SAML integration using OneLogin as the Identity Provider, completed on October 22, 2025.

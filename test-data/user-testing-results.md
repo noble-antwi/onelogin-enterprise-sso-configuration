@@ -1,7 +1,5 @@
 # User Testing and Results Documentation
 
-**File Path:** `test-data/user-testing-results.md`
-
 ## Testing Overview
 
 This document chronicles the actual user creation, management, and SSO testing conducted during the OneLogin implementation project on October 22, 2025.
@@ -47,7 +45,8 @@ David,Davis,david.davis@demoenterprise.com,david.davis,312-555-0105,Demo Enterpr
 
 ## Bulk Import Results
 
-![Successful User Creation](../screenshots/user-provisioning/01-users-created-successfully.png)
+
+![Successful User Creation](../screenshots/user-provisioning/01-users-list-complete.png)
 
 ### Import Statistics
 - **Total Users Created:** 20 enterprise test users
